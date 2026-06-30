@@ -1,6 +1,6 @@
 # Hi, I'm Oscar 👋
 
-Industrial Civil Engineer from the Universidad de Valparaíso, holder of a Diploma in Python & Data Science from Pontificia Universidad Católica de Chile, and MBA Candidate at Universidad Diego Portales.
+Industrial Civil Engineer from the Universidad de Valparaíso, holder of a Diploma in Python & Data Science from Pontificia Universidad Católica de Chile, and MBA (C) at Universidad Diego Portales.
 
 Business Intelligence & Data Engineer from Chile, passionate about designing modern data platforms and transforming raw data into actionable business insights.
 
@@ -8,7 +8,7 @@ Business Intelligence & Data Engineer from Chile, passionate about designing mod
 
 - 💼 Business Intelligence & Data Engineer
 - 🎓 Industrial Civil Engineer
-- 📚 MBA Candidate – Universidad Diego Portales
+- 📚 MBA (C) – Universidad Diego Portales
 - 📊 Experienced in SQL, Databricks, Power BI, and Python
 - 🏗️ Knowledge of Medallion Architecture, Data Warehouse design, Star Schema, Snowflake Schema, and Slowly Changing Dimensions (SCD Type 2)
 - ⚡ Experienced in ETL/ELT pipelines, data modeling, and data transformation
